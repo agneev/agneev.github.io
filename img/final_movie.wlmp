@@ -11,8 +11,40 @@
     <MediaItem id="9" filePath="C:\Users\Agneev\Desktop\testt\agneev.github.io\img\pic2.jpg" arWidth="843" arHeight="403" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="10" filePath="C:\Users\Agneev\Desktop\testt\agneev.github.io\img\IMG_3266.JPG" arWidth="4272" arHeight="2848" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="11" filePath="C:\Users\Agneev\Desktop\testt\agneev.github.io\img\IMG_3268.JPG" arWidth="2848" arHeight="4272" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="12" filePath="C:\Users\Agneev\Desktop\testt\agneev.github.io\img\stock-vector-body-scan-radiology-imaging-healthcare-health-care-concept-clinic-hospital-department-symbols-d-369980837.jpg" arWidth="450" arHeight="470" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="13" filePath="C:\Users\Agneev\Desktop\testt\agneev.github.io\img\stock-vector-hospital-clinic-radiology-diagnostic-imaging-department-infographic-x-ray-rx-mri-ct-scan-patient-321096545.jpg" arWidth="1500" arHeight="1600" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="14" filePath="C:\Users\Agneev\Desktop\testt\agneev.github.io\img\Bone_Densitometry_Scan.png" arWidth="1500" arHeight="1500" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="15" filePath="C:\Users\Agneev\Desktop\testt\agneev.github.io\img\15113972-Retrato-del-doctor-curioso-mirando-de-rayos-X-en-el-laboratorio-Foto-de-archivo.jpg" arWidth="96" arHeight="73" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
   </MediaItems>
   <Extents>
+    <ImageClip extentID="17" gapBefore="0" mediaItemID="12" duration="7">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="18" gapBefore="0" mediaItemID="13" duration="7">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="19" gapBefore="0" mediaItemID="14" duration="7">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="20" gapBefore="0" mediaItemID="15" duration="7">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
     <VideoClip extentID="7" gapBefore="0" mediaItemID="2" inTime="0" outTime="39.5" speed="1" stabilizationMode="0">
       <Effects />
       <Transitions />
@@ -100,9 +132,13 @@
       <ExtentRefs>
         <ExtentRef id="8" />
         <ExtentRef id="9" />
+        <ExtentRef id="17" />
+        <ExtentRef id="18" />
+        <ExtentRef id="19" />
         <ExtentRef id="15" />
         <ExtentRef id="16" />
         <ExtentRef id="11" />
+        <ExtentRef id="20" />
         <ExtentRef id="13" />
         <ExtentRef id="12" />
         <ExtentRef id="14" />
