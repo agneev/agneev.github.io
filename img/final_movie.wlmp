@@ -1,44 +1,94 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project name="final_movie" themeId="0" version="65540" templateID="SimpleProjectTemplate">
   <MediaItems>
+    <MediaItem id="54" filePath="C:\Users\TEMP.GHOSH\Music\Narration 17 (3-16-2017 2-00 AM).wma" arWidth="0" arHeight="0" duration="2.431" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="3" />
+    <MediaItem id="1" filePath="C:\Users\Agneev\Desktop\testt\agneev.github.io\img\IMG_3270.JPG" arWidth="2848" arHeight="4272" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="2" filePath="C:\Users\Agneev\Downloads\Mar 15 2017 1-09 AM.mp4" arWidth="1366" arHeight="662" duration="43.017000000000003" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="56" filePath="C:\Users\TEMP.GHOSH\Music\Narration 19 (3-16-2017 2-10 AM).wma" arWidth="0" arHeight="0" duration="16.734999999999999" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="3" />
     <MediaItem id="3" filePath="C:\Users\Agneev\Desktop\testt\agneev.github.io\img\CSE 291 video.jpg" arWidth="960" arHeight="540" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="4" filePath="C:\Users\Agneev\Desktop\testt\agneev.github.io\img\17351256_10210173232220513_971249865_n.jpg" arWidth="300" arHeight="200" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
-    <MediaItem id="5" filePath="C:\Users\Agneev\Desktop\testt\agneev.github.io\img\MVI_3282.MOV" arWidth="1280" arHeight="720" duration="20.199999999999999" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
-    <MediaItem id="6" filePath="C:\Users\Agneev\Desktop\testt\agneev.github.io\img\MVI_3272.MOV" arWidth="1280" arHeight="720" duration="13.6079791" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
-    <MediaItem id="7" filePath="C:\Users\Agneev\Desktop\testt\agneev.github.io\img\MVI_3274.MOV" arWidth="1280" arHeight="720" duration="19.239999999999998" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
-    <MediaItem id="8" filePath="C:\Users\Agneev\Desktop\testt\agneev.github.io\img\MVI_3276.MOV" arWidth="1280" arHeight="720" duration="21.16" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="5" filePath="C:\Users\Agneev\Desktop\testt\agneev.github.io\img\MVI_3282.MOV" arWidth="1280" arHeight="720" duration="20.16" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="6" filePath="C:\Users\Agneev\Desktop\testt\agneev.github.io\img\MVI_3272.MOV" arWidth="1280" arHeight="720" duration="13.56" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="7" filePath="C:\Users\Agneev\Desktop\testt\agneev.github.io\img\MVI_3274.MOV" arWidth="1280" arHeight="720" duration="19.199999999999999" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="8" filePath="C:\Users\Agneev\Desktop\testt\agneev.github.io\img\MVI_3276.MOV" arWidth="1280" arHeight="720" duration="21.120000000000001" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
     <MediaItem id="9" filePath="C:\Users\Agneev\Desktop\testt\agneev.github.io\img\pic2.jpg" arWidth="843" arHeight="403" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="10" filePath="C:\Users\Agneev\Desktop\testt\agneev.github.io\img\IMG_3266.JPG" arWidth="4272" arHeight="2848" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="11" filePath="C:\Users\Agneev\Desktop\testt\agneev.github.io\img\IMG_3268.JPG" arWidth="2848" arHeight="4272" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
-    <MediaItem id="12" filePath="C:\Users\Agneev\Desktop\testt\agneev.github.io\img\stock-vector-body-scan-radiology-imaging-healthcare-health-care-concept-clinic-hospital-department-symbols-d-369980837.jpg" arWidth="450" arHeight="470" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="12" filePath="C:\Users\TEMP.GHOSH\Music\Narration 1 (3-15-2017 10-00 PM).wma" arWidth="0" arHeight="0" duration="20.352" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="3" />
     <MediaItem id="13" filePath="C:\Users\Agneev\Desktop\testt\agneev.github.io\img\stock-vector-hospital-clinic-radiology-diagnostic-imaging-department-infographic-x-ray-rx-mri-ct-scan-patient-321096545.jpg" arWidth="1500" arHeight="1600" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="14" filePath="C:\Users\Agneev\Desktop\testt\agneev.github.io\img\Bone_Densitometry_Scan.png" arWidth="1500" arHeight="1500" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
-    <MediaItem id="15" filePath="C:\Users\Agneev\Desktop\testt\agneev.github.io\img\15113972-Retrato-del-doctor-curioso-mirando-de-rayos-X-en-el-laboratorio-Foto-de-archivo.jpg" arWidth="96" arHeight="73" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="15" filePath="C:\Users\Agneev\Desktop\testt\agneev.github.io\img\15113972-Retrato-del-doctor-curioso-mirando-de-rayos-X-en-el-laboratorio-Foto-de-archivo.jpg" arWidth="1300" arHeight="992" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="16" filePath="C:\Users\Agneev\Desktop\testt\agneev.github.io\img\wrong.png" arWidth="363" arHeight="385" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="17" filePath="C:\Users\Agneev\Desktop\testt\agneev.github.io\img\X-ray-Room.jpg" arWidth="2144" arHeight="1424" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="18" filePath="C:\Users\Agneev\Desktop\testt\agneev.github.io\img\xraybanner.jpg" arWidth="1920" arHeight="832" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="19" filePath="C:\Users\Agneev\Downloads\CSE 291 video (1).jpg" arWidth="960" arHeight="540" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="20" filePath="C:\Users\Agneev\Downloads\CSE 291 video (2).jpg" arWidth="960" arHeight="540" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="21" filePath="C:\Users\Agneev\Downloads\CSE 291 video (3).jpg" arWidth="960" arHeight="540" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="22" filePath="C:\Users\TEMP.GHOSH\Music\Narration 2 (3-15-2017 10-04 PM).wma" arWidth="0" arHeight="0" duration="6.1859999999999999" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="3" />
+    <MediaItem id="23" filePath="C:\Users\Agneev\Downloads\Mar 15 2017 5-30 PM.mp4" arWidth="1366" arHeight="612" duration="22.317" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="24" filePath="C:\Users\Agneev\Downloads\CSE 291 video (5).jpg" arWidth="960" arHeight="540" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="25" filePath="C:\Users\Agneev\Downloads\Mar 15 2017 6-26 PM.mp4" arWidth="1366" arHeight="612" duration="25.016999999999999" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="26" filePath="C:\Users\Agneev\Downloads\kuch kuch hota hai hindi piano - piano cover pawandeep Singh.mp3" arWidth="0" arHeight="0" duration="311.14448970000001" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="3" />
+    <MediaItem id="28" filePath="C:\Users\TEMP.GHOSH\Music\Narration 4 (3-15-2017 10-11 PM).wma" arWidth="0" arHeight="0" duration="6.8680000000000003" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="3" />
+    <MediaItem id="29" filePath="C:\Users\TEMP.GHOSH\Music\Narration 5 (3-15-2017 10-15 PM).wma" arWidth="0" arHeight="0" duration="11.603999999999999" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="3" />
+    <MediaItem id="30" filePath="C:\Users\TEMP.GHOSH\Music\Narration 6 (3-15-2017 10-25 PM).wma" arWidth="0" arHeight="0" duration="40.789000000000001" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="3" />
+    <MediaItem id="31" filePath="C:\Users\TEMP.GHOSH\Music\Narration 7 (3-15-2017 10-33 PM).wma" arWidth="0" arHeight="0" duration="13.183" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="3" />
+    <MediaItem id="32" filePath="C:\Users\TEMP.GHOSH\Music\Narration 8 (3-15-2017 10-40 PM).wma" arWidth="0" arHeight="0" duration="10.452999999999999" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="3" />
+    <MediaItem id="34" filePath="C:\Users\TEMP.GHOSH\Music\Narration 10 (3-15-2017 9-54 PM).wma" arWidth="0" arHeight="0" duration="14.943" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="3" />
+    <MediaItem id="37" filePath="C:\Users\TEMP.GHOSH\Music\Narration 15 (3-15-2017 10-48 PM).wma" arWidth="0" arHeight="0" duration="3.4550000000000001" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="3" />
+    <MediaItem id="38" filePath="C:\Users\TEMP.GHOSH\Music\Narration 16 (3-15-2017 11-24 PM).wma" arWidth="0" arHeight="0" duration="3.6680000000000001" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="3" />
+    <MediaItem id="39" filePath="C:\Users\Agneev\Desktop\testt\agneev.github.io\img\IMG_3277.JPG" arWidth="2848" arHeight="4272" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="40" filePath="C:\Users\Agneev\Desktop\testt\agneev.github.io\img\IMG_3278.JPG" arWidth="4272" arHeight="2848" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="41" filePath="C:\Users\TEMP.GHOSH\Desktop\Untitled.png" arWidth="490" arHeight="289" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="42" filePath="C:\Users\TEMP.GHOSH\Music\Narration 6 (3-16-2017 1-45 AM).wma" arWidth="0" arHeight="0" duration="38.655999999999999" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="3" />
+    <MediaItem id="43" filePath="C:\Users\TEMP.GHOSH\Music\Narration 18 (3-16-2017 12-04 AM).wma" arWidth="0" arHeight="0" duration="30.933" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="3" />
+    <MediaItem id="44" filePath="C:\Users\TEMP.GHOSH\Music\Narration 20 (3-16-2017 12-06 AM).wma" arWidth="0" arHeight="0" duration="10.239000000000001" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="3" />
+    <MediaItem id="45" filePath="C:\Users\TEMP.GHOSH\Music\Narration 21 (3-16-2017 12-11 AM).wma" arWidth="0" arHeight="0" duration="7.3810000000000002" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="3" />
+    <MediaItem id="47" filePath="C:\Users\TEMP.GHOSH\Desktop\tt.png" arWidth="529" arHeight="214" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="48" filePath="C:\Users\TEMP.GHOSH\Music\Narration 22 (3-16-2017 12-27 AM).wma" arWidth="0" arHeight="0" duration="9.343" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="3" />
+    <MediaItem id="50" filePath="C:\Users\TEMP.GHOSH\Music\Narration 10 (3-16-2017 1-52 AM).wma" arWidth="0" arHeight="0" duration="13.779999999999999" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="3" />
+    <MediaItem id="51" filePath="C:\Users\TEMP.GHOSH\Music\Narration 13 (3-16-2017 1-57 AM).wma" arWidth="0" arHeight="0" duration="7.5510000000000002" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="3" />
   </MediaItems>
   <Extents>
-    <ImageClip extentID="17" gapBefore="0" mediaItemID="12" duration="7">
+    <AudioClip extentID="55" gapBefore="-0.58433333333334758" mediaItemID="54" inTime="0" outTime="0" speed="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyFloat Name="Volume" Value="1" />
+      </BoundProperties>
+    </AudioClip>
+    <ImageClip extentID="57" gapBefore="0" mediaItemID="47" duration="6">
       <Effects />
       <Transitions />
       <BoundProperties>
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
-    <ImageClip extentID="18" gapBefore="0" mediaItemID="13" duration="7">
+    <AudioClip extentID="58" gapBefore="16.585666666666668" mediaItemID="48" inTime="0" outTime="0" speed="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyFloat Name="Volume" Value="1" />
+      </BoundProperties>
+    </AudioClip>
+    <ImageClip extentID="5" gapBefore="0" mediaItemID="1" duration="2">
       <Effects />
       <Transitions />
       <BoundProperties>
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
-    <ImageClip extentID="19" gapBefore="0" mediaItemID="14" duration="7">
+    <AudioClip extentID="59" gapBefore="0.40233333333333121" mediaItemID="56" inTime="0" outTime="13.133333333333326" speed="1">
       <Effects />
       <Transitions />
       <BoundProperties>
-        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyFloat Name="Volume" Value="2" />
       </BoundProperties>
-    </ImageClip>
-    <ImageClip extentID="20" gapBefore="0" mediaItemID="15" duration="7">
+    </AudioClip>
+    <ImageClip extentID="6" gapBefore="0" mediaItemID="19" duration="12">
       <Effects />
       <Transitions />
       <BoundProperties>
@@ -51,7 +101,7 @@
       <BoundProperties>
         <BoundPropertyBool Name="Mute" Value="false" />
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
-        <BoundPropertyFloat Name="Volume" Value="1" />
+        <BoundPropertyFloat Name="Volume" Value="2" />
       </BoundProperties>
     </VideoClip>
     <ImageClip extentID="8" gapBefore="0" mediaItemID="3" duration="7">
@@ -61,7 +111,7 @@
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
-    <ImageClip extentID="9" gapBefore="0" mediaItemID="4" duration="7">
+    <ImageClip extentID="9" gapBefore="0" mediaItemID="4" duration="2">
       <Effects />
       <Transitions />
       <BoundProperties>
@@ -111,52 +161,325 @@
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
-    <ImageClip extentID="15" gapBefore="0" mediaItemID="10" duration="7">
+    <ImageClip extentID="15" gapBefore="0" mediaItemID="10" duration="9">
       <Effects />
       <Transitions />
       <BoundProperties>
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
-    <ImageClip extentID="16" gapBefore="0" mediaItemID="11" duration="7">
+    <ImageClip extentID="16" gapBefore="0" mediaItemID="11" duration="9">
       <Effects />
       <Transitions />
       <BoundProperties>
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
+    <AudioClip extentID="17" gapBefore="0.057000000000000384" mediaItemID="12" inTime="0" outTime="13.966666666666669" speed="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyFloat Name="Volume" Value="1" />
+      </BoundProperties>
+    </AudioClip>
+    <ImageClip extentID="18" gapBefore="0" mediaItemID="13" duration="7">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="19" gapBefore="0" mediaItemID="14" duration="9">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="20" gapBefore="0" mediaItemID="15" duration="9">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="21" gapBefore="0" mediaItemID="16" duration="4">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="22" gapBefore="0" mediaItemID="17" duration="7">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="23" gapBefore="0" mediaItemID="18" duration="8">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="24" gapBefore="0" mediaItemID="20" duration="14">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="25" gapBefore="0" mediaItemID="21" duration="10">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <AudioClip extentID="26" gapBefore="-3.5527136788005009e-015" mediaItemID="22" inTime="0" outTime="0" speed="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyFloat Name="Volume" Value="1" />
+      </BoundProperties>
+    </AudioClip>
+    <VideoClip extentID="27" gapBefore="0" mediaItemID="23" inTime="0" outTime="19.273772727272728" speed="1" stabilizationMode="0">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+        <BoundPropertyFloat Name="Volume" Value="1" />
+      </BoundProperties>
+    </VideoClip>
+    <ImageClip extentID="29" gapBefore="0" mediaItemID="24" duration="14.5">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <VideoClip extentID="30" gapBefore="0" mediaItemID="25" inTime="0" outTime="0" speed="1" stabilizationMode="0">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+        <BoundPropertyFloat Name="Volume" Value="1" />
+      </BoundProperties>
+    </VideoClip>
+    <AudioClip extentID="31" gapBefore="0" mediaItemID="26" inTime="0" outTime="0" speed="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyFloat Name="Volume" Value="0.054901964962482452" />
+      </BoundProperties>
+    </AudioClip>
+    <AudioClip extentID="34" gapBefore="-0.11933333333332996" mediaItemID="28" inTime="0" outTime="0" speed="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyFloat Name="Volume" Value="1" />
+      </BoundProperties>
+    </AudioClip>
+    <AudioClip extentID="35" gapBefore="0.06533333333333502" mediaItemID="29" inTime="0" outTime="0" speed="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyFloat Name="Volume" Value="1" />
+      </BoundProperties>
+    </AudioClip>
+    <AudioClip extentID="36" gapBefore="0.46266666666666367" mediaItemID="30" inTime="0" outTime="0" speed="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyFloat Name="Volume" Value="1.5686275959014893" />
+      </BoundProperties>
+    </AudioClip>
+    <AudioClip extentID="37" gapBefore="0.077666666666672768" mediaItemID="31" inTime="0" outTime="0" speed="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyFloat Name="Volume" Value="1.5686275959014893" />
+      </BoundProperties>
+    </AudioClip>
+    <AudioClip extentID="38" gapBefore="0" mediaItemID="34" inTime="0" outTime="0" speed="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyFloat Name="Volume" Value="1" />
+      </BoundProperties>
+    </AudioClip>
+    <AudioClip extentID="39" gapBefore="0.050333333333341557" mediaItemID="32" inTime="0" outTime="0" speed="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyFloat Name="Volume" Value="1.6235295534133911" />
+      </BoundProperties>
+    </AudioClip>
+    <AudioClip extentID="40" gapBefore="0.49033333333335349" mediaItemID="42" inTime="0" outTime="0" speed="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyFloat Name="Volume" Value="2" />
+      </BoundProperties>
+    </AudioClip>
+    <AudioClip extentID="43" gapBefore="16.280333333333331" mediaItemID="37" inTime="0" outTime="0" speed="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyFloat Name="Volume" Value="1" />
+      </BoundProperties>
+    </AudioClip>
+    <AudioClip extentID="44" gapBefore="0.34499999999997044" mediaItemID="38" inTime="0" outTime="0" speed="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyFloat Name="Volume" Value="2" />
+      </BoundProperties>
+    </AudioClip>
+    <ImageClip extentID="45" gapBefore="0" mediaItemID="39" duration="7">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="46" gapBefore="0" mediaItemID="40" duration="7">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="47" gapBefore="0" mediaItemID="41" duration="7">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <AudioClip extentID="48" gapBefore="0.37733333333329711" mediaItemID="50" inTime="0" outTime="0" speed="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyFloat Name="Volume" Value="1.9764707088470459" />
+      </BoundProperties>
+    </AudioClip>
+    <AudioClip extentID="49" gapBefore="19.998666666666679" mediaItemID="43" inTime="0" outTime="0" speed="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyFloat Name="Volume" Value="1.8588236570358276" />
+      </BoundProperties>
+    </AudioClip>
+    <AudioClip extentID="50" gapBefore="0.23366666666666447" mediaItemID="44" inTime="0" outTime="0" speed="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyFloat Name="Volume" Value="1.7411766052246094" />
+      </BoundProperties>
+    </AudioClip>
+    <AudioClip extentID="51" gapBefore="0.39433333333332143" mediaItemID="45" inTime="0" outTime="0" speed="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyFloat Name="Volume" Value="1.5921570062637329" />
+      </BoundProperties>
+    </AudioClip>
+    <AudioClip extentID="52" gapBefore="0.28666666666674701" mediaItemID="51" inTime="0" outTime="0" speed="1">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyFloat Name="Volume" Value="1" />
+      </BoundProperties>
+    </AudioClip>
     <ExtentSelector extentID="1" gapBefore="0" primaryTrack="true">
       <Effects />
       <Transitions />
       <BoundProperties />
       <ExtentRefs>
         <ExtentRef id="8" />
+        <ExtentRef id="23" />
+        <ExtentRef id="30" />
         <ExtentRef id="9" />
-        <ExtentRef id="17" />
+        <ExtentRef id="6" />
         <ExtentRef id="18" />
         <ExtentRef id="19" />
+        <ExtentRef id="22" />
         <ExtentRef id="15" />
         <ExtentRef id="16" />
         <ExtentRef id="11" />
         <ExtentRef id="20" />
-        <ExtentRef id="13" />
         <ExtentRef id="12" />
+        <ExtentRef id="5" />
+        <ExtentRef id="21" />
+        <ExtentRef id="13" />
         <ExtentRef id="14" />
-        <ExtentRef id="7" />
+        <ExtentRef id="45" />
+        <ExtentRef id="47" />
+        <ExtentRef id="46" />
+        <ExtentRef id="27" />
         <ExtentRef id="10" />
+        <ExtentRef id="57" />
+        <ExtentRef id="7" />
+        <ExtentRef id="24" />
+        <ExtentRef id="25" />
+        <ExtentRef id="29" />
       </ExtentRefs>
     </ExtentSelector>
     <ExtentSelector extentID="2" gapBefore="0" primaryTrack="false">
       <Effects />
       <Transitions />
       <BoundProperties />
-      <ExtentRefs />
+      <ExtentRefs>
+        <ExtentRef id="31" />
+      </ExtentRefs>
     </ExtentSelector>
     <ExtentSelector extentID="3" gapBefore="0" primaryTrack="false">
       <Effects />
       <Transitions />
       <BoundProperties />
-      <ExtentRefs />
+      <ExtentRefs>
+        <ExtentRef id="38" />
+        <ExtentRef id="17" />
+        <ExtentRef id="26" />
+        <ExtentRef id="34" />
+        <ExtentRef id="35" />
+        <ExtentRef id="36" />
+        <ExtentRef id="37" />
+        <ExtentRef id="39" />
+        <ExtentRef id="43" />
+        <ExtentRef id="44" />
+        <ExtentRef id="49" />
+        <ExtentRef id="50" />
+        <ExtentRef id="51" />
+        <ExtentRef id="58" />
+        <ExtentRef id="40" />
+        <ExtentRef id="48" />
+        <ExtentRef id="52" />
+        <ExtentRef id="55" />
+        <ExtentRef id="59" />
+      </ExtentRefs>
     </ExtentSelector>
     <ExtentSelector extentID="4" gapBefore="0" primaryTrack="false">
       <Effects />
@@ -177,12 +500,12 @@
       <BoundPropertyFloatElement Value="1.7777776718139648" />
     </BoundPropertyFloatSet>
     <BoundPropertyFloat Name="DuckedNarrationAndSoundTrackMix" Value="0.5" />
-    <BoundPropertyFloat Name="DuckedVideoAndNarrationMix" Value="0" />
-    <BoundPropertyFloat Name="DuckedVideoAndSoundTrackMix" Value="0" />
-    <BoundPropertyFloat Name="SoundTrackMix" Value="0" />
+    <BoundPropertyFloat Name="DuckedVideoAndNarrationMix" Value="0.5" />
+    <BoundPropertyFloat Name="DuckedVideoAndSoundTrackMix" Value="0.5" />
+    <BoundPropertyFloat Name="SoundTrackMix" Value="0.5" />
   </BoundProperties>
   <ThemeOperationLog themeID="0">
     <MonolithicThemeOperations />
   </ThemeOperationLog>
-  <AudioDuckingProperties emphasisPlaceholderID="Narration" />
+  <AudioDuckingProperties emphasisPlaceholderID="" />
 </Project>
